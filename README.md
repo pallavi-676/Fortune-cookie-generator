@@ -79,7 +79,6 @@ This project demonstrates:
 * Loops and conditionals
 * Clean and readable C++ code
 
-Perfect for beginners building their **GitHub portfolio** 🚀
 
 ---
 
